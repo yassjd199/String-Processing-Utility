@@ -1,6 +1,3 @@
-Sure! Here's the updated **README** with a section discussing the time complexity of the **Longest Common Subsequence (LCS)** algorithm:
-
----
 
 # **String Processing Utility**
 
@@ -80,18 +77,3 @@ The `PatternMatchUtility` class implements the KMP algorithm to find and highlig
 
 These codes will work on most terminals that support ANSI color codes.
 
----
-
-## **Contributions**
-
-Feel free to contribute to this project by submitting issues, bug reports, or pull requests. Contributions are always welcome!
-
----
-
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-With this update, the **README** now includes a section discussing the time complexities of both the **KMP** and **LCS** algorithms. Let me know if you'd like any further additions or modifications!
